@@ -1,0 +1,14 @@
+
+.proudct{
+    display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   width: calc((100% - 120px)/4) ;
+    background:  #FFF;
+    gap: 15px;
+    align-self: stretch;
+}
+.img{
+    width: 300px;
+    height: 250px;
+ }
